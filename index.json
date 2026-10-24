@@ -1,0 +1,844 @@
+{
+    "type": "moodtube_catalog",
+    "version": 1,
+    "name": "moodtube-themes",
+    "themes": [
+        {
+            "id": "rose-vinyl",
+            "name": "Rose Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, розовый.",
+            "file": "themes/rose-vinyl.json",
+            "preview": "previews/rose-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Rose",
+            "swatch": "#e0607e"
+        },
+        {
+            "id": "peach-vinyl",
+            "name": "Peach Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, персиковый.",
+            "file": "themes/peach-vinyl.json",
+            "preview": "previews/peach-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Peach",
+            "swatch": "#e08860"
+        },
+        {
+            "id": "mint-vinyl",
+            "name": "Mint Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, мятный.",
+            "file": "themes/mint-vinyl.json",
+            "preview": "previews/mint-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Mint",
+            "swatch": "#60e0a2"
+        },
+        {
+            "id": "aqua-vinyl",
+            "name": "Aqua Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, бирюзовый.",
+            "file": "themes/aqua-vinyl.json",
+            "preview": "previews/aqua-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Aqua",
+            "swatch": "#60dee0"
+        },
+        {
+            "id": "sky-vinyl",
+            "name": "Sky Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, небесно-голубой.",
+            "file": "themes/sky-vinyl.json",
+            "preview": "previews/sky-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Sky",
+            "swatch": "#60ade0"
+        },
+        {
+            "id": "ocean-vinyl",
+            "name": "Ocean Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, васильковый.",
+            "file": "themes/ocean-vinyl.json",
+            "preview": "previews/ocean-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Ocean",
+            "swatch": "#6084e0"
+        },
+        {
+            "id": "periwinkle-vinyl",
+            "name": "Periwinkle Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, сиренево-синий.",
+            "file": "themes/periwinkle-vinyl.json",
+            "preview": "previews/periwinkle-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Periwinkle",
+            "swatch": "#6d60e0"
+        },
+        {
+            "id": "lavender-vinyl",
+            "name": "Lavender Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, лавандовый.",
+            "file": "themes/lavender-vinyl.json",
+            "preview": "previews/lavender-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Lavender",
+            "swatch": "#9e60e0"
+        },
+        {
+            "id": "orchid-vinyl",
+            "name": "Orchid Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, орхидея.",
+            "file": "themes/orchid-vinyl.json",
+            "preview": "previews/orchid-vinyl.png",
+            "tags": [
+                "light",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Orchid",
+            "swatch": "#de60e0"
+        },
+        {
+            "id": "midnight-vinyl",
+            "name": "Midnight Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, тёмный бордово-сливовый.",
+            "file": "themes/midnight-vinyl.json",
+            "preview": "previews/midnight-vinyl.png",
+            "tags": [
+                "dark",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Midnight",
+            "swatch": "#5a1835"
+        },
+        {
+            "id": "olive-vinyl",
+            "name": "Olive Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, тёмный оливковый.",
+            "file": "themes/olive-vinyl.json",
+            "preview": "previews/olive-vinyl.png",
+            "tags": [
+                "dark",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Olive",
+            "swatch": "#5d6b4f"
+        },
+        {
+            "id": "onyx-vinyl",
+            "name": "Onyx Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, чёрный.",
+            "file": "themes/onyx-vinyl.json",
+            "preview": "previews/onyx-vinyl.png",
+            "tags": [
+                "dark",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Onyx",
+            "swatch": "#1a1a1a"
+        },
+        {
+            "id": "navy-vinyl",
+            "name": "Navy Vinyl",
+            "author": "ann22cadis",
+            "description": "Пиксельный плеер с виниловой пластинкой и тонармом, тёмно-синий.",
+            "file": "themes/navy-vinyl.json",
+            "preview": "previews/navy-vinyl.png",
+            "tags": [
+                "dark",
+                "pixel",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Navy",
+            "swatch": "#1f3a78"
+        },
+        {
+            "id": "void-youth-quake",
+            "name": "VOID — Youth Quake",
+            "author": "ann22cadis",
+            "description": "Тёмно-синий плеер-проигрыватель: пластинка с тонармом, бумажная этикетка с названием трека, объёмные кнопки, голубой акцент.",
+            "file": "themes/void-youth-quake.json",
+            "preview": "previews/void-youth-quake.png",
+            "tags": [
+                "dark",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Vinyl",
+            "variant": "Void",
+            "swatch": "#8fb9e8"
+        },
+        {
+            "id": "field-recorder",
+            "name": "Field Recorder",
+            "author": "ann22cadis",
+            "description": "Светлый диктофон: волна вместо прогресса с красной линией, тёмный экранчик, круглые кнопки.",
+            "file": "themes/field-recorder.json",
+            "preview": "previews/field-recorder.png",
+            "tags": [
+                "light",
+                "minimal",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Field Recorder"
+        },
+        {
+            "id": "crystal-handheld",
+            "name": "Crystal Handheld",
+            "author": "ann22cadis",
+            "description": "Полупрозрачная голубая консоль с пиксельным экраном, крестовиной и кнопкой-обложкой.",
+            "file": "themes/crystal-handheld.json",
+            "preview": "previews/crystal-handheld.png",
+            "tags": [
+                "light",
+                "pixel",
+                "retro",
+                "cute"
+            ],
+            "version": 1,
+            "group": "Crystal Handheld"
+        },
+        {
+            "id": "rain-roses",
+            "name": "Rain Roses",
+            "author": "ann22cadis",
+            "description": "Фото роз за дождливым стеклом, матовое стекло и янтарные акценты.",
+            "file": "themes/rain-roses.json",
+            "preview": "previews/rain-roses.png",
+            "tags": [
+                "dark",
+                "photo",
+                "floral"
+            ],
+            "version": 1,
+            "group": "Rain Roses"
+        },
+        {
+            "id": "jewel-case",
+            "name": "Jewel Case",
+            "author": "ann22cadis",
+            "description": "Чёрный футляр от CD с прозрачными уголками и большим диском с обложкой трека.",
+            "file": "themes/jewel-case.json",
+            "preview": "previews/jewel-case.png",
+            "tags": [
+                "dark",
+                "cd",
+                "mono"
+            ],
+            "version": 1,
+            "group": "Jewel Case"
+        },
+        {
+            "id": "paper-sleeve",
+            "name": "Paper Sleeve",
+            "author": "ann22cadis",
+            "description": "Чёрно-белый коллаж: пластинка выглядывает из белого конверта, бумажные нотки, пиксельный заголовок.",
+            "file": "themes/paper-sleeve.json",
+            "preview": "previews/paper-sleeve.png",
+            "tags": [
+                "light",
+                "mono",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Paper Sleeve"
+        },
+        {
+            "id": "clear-case",
+            "name": "Clear Case",
+            "author": "ann22cadis",
+            "description": "Прозрачная коробка с диском: обложка трека печатается на диске и крутится. Чёрно-белая, в большом окне текст слева, коробка справа.",
+            "file": "themes/clear-case.json",
+            "preview": "previews/clear-case.png",
+            "tags": [
+                "dark",
+                "cd",
+                "mono"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Mono"
+        },
+        {
+            "id": "clear-case-playlist",
+            "name": "Clear Case Playlist",
+            "author": "ann22cadis",
+            "description": "В духе обложки плейлиста: зелёный градиент, круглая зелёная кнопка Play, цветная обложка на диске.",
+            "file": "themes/clear-case-playlist.json",
+            "preview": "previews/clear-case-playlist.png",
+            "tags": [
+                "dark",
+                "cd",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Playlist"
+        },
+        {
+            "id": "clear-case-love-music",
+            "name": "Clear Case Love Music",
+            "author": "ann22cadis",
+            "description": "Огромные контурные буквы LOVE MUSIC на фоне, надпись по кругу диска, плакатный шрифт, квадратные кнопка и ползунки.",
+            "file": "themes/clear-case-love-music.json",
+            "preview": "previews/clear-case-love-music.png",
+            "tags": [
+                "dark",
+                "cd",
+                "mono"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Love Music"
+        },
+        {
+            "id": "clear-case-red-stars",
+            "name": "Clear Case Red Stars",
+            "author": "ann22cadis",
+            "description": "Красные звёзды на диске и фоне, ползунки-звёздочки, широкий моно-шрифт.",
+            "file": "themes/clear-case-red-stars.json",
+            "preview": "previews/clear-case-red-stars.png",
+            "tags": [
+                "dark",
+                "cd",
+                "y2k"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Red Stars"
+        },
+        {
+            "id": "clear-case-holo",
+            "name": "Clear Case Holo",
+            "author": "ann22cadis",
+            "description": "Светлая перламутровая тема с радужной рамкой и голографическим диском.",
+            "file": "themes/clear-case-holo.json",
+            "preview": "previews/clear-case-holo.png",
+            "tags": [
+                "light",
+                "cd",
+                "y2k",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Holo"
+        },
+        {
+            "id": "clear-case-checker",
+            "name": "Clear Case Checker",
+            "author": "ann22cadis",
+            "description": "Шахматный фон и диск, квадратные кнопки в рамках, как на старом CD-плеере.",
+            "file": "themes/clear-case-checker.json",
+            "preview": "previews/clear-case-checker.png",
+            "tags": [
+                "dark",
+                "cd",
+                "retro",
+                "mono"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Checker"
+        },
+        {
+            "id": "clear-case-faded-floral",
+            "name": "Clear Case Faded Floral",
+            "author": "ann22cadis",
+            "description": "Обои из тонких розовых цветочков, курсив с засечками, диск в пыльно-розовом и шалфейном.",
+            "file": "themes/clear-case-faded-floral.json",
+            "preview": "previews/clear-case-faded-floral.png",
+            "tags": [
+                "dark",
+                "cd",
+                "floral"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Faded Floral"
+        },
+        {
+            "id": "clear-case-tangled",
+            "name": "Clear Case Tangled",
+            "author": "ann22cadis",
+            "description": "Запутанный провод наушников на диске и фоне, строчный тонкий шрифт, ползунок-наушник.",
+            "file": "themes/clear-case-tangled.json",
+            "preview": "previews/clear-case-tangled.png",
+            "tags": [
+                "dark",
+                "cd",
+                "minimal",
+                "mono"
+            ],
+            "version": 1,
+            "group": "Clear Case",
+            "variant": "Tangled"
+        },
+        {
+            "id": "blurple",
+            "name": "Blurple",
+            "author": "ann22cadis",
+            "description": "Карточка профиля в стиле чат-приложения: баннер, обложка-аватарка со статусом (в сети, неактивен, не в сети), карточка активности и панель кнопок как в голосовом канале.",
+            "file": "themes/blurple.json",
+            "preview": "previews/blurple.png",
+            "tags": [
+                "dark",
+                "minimal",
+                "chat"
+            ],
+            "version": 1,
+            "group": "Blurple"
+        },
+        {
+            "id": "pink-mixtape-vinyl",
+            "name": "Pink Mixtape & Vinyl",
+            "author": "ann22cadis",
+            "description": "Тёмный плеер с неоново-розовым акцентом: винил с обложкой в центре, круглые кнопки, подпись «Mixtape • Side A».",
+            "file": "themes/pink-mixtape-vinyl.json",
+            "preview": "previews/pink-mixtape-vinyl.png",
+            "tags": [
+                "dark",
+                "cute",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Pink Mixtape & Vinyl"
+        },
+        {
+            "id": "recent-favs-zine",
+            "name": "Recent Favs Zine",
+            "author": "ann22cadis",
+            "description": "Светлый зин-коллаж: бумажный фон, пластинка с наклонённой обложкой-постером, рамка выделения вокруг названия, жирные тени у кнопок.",
+            "file": "themes/recent-favs-zine.json",
+            "preview": "previews/recent-favs-zine.png",
+            "tags": [
+                "light",
+                "mono",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Recent Favs Zine"
+        },
+        {
+            "id": "pink-crt",
+            "name": "Pink CRT",
+            "author": "ann22cadis",
+            "description": "Розовый ЭЛТ-телевизор: строки развёртки, обложка точечной картинкой, пиксельный пейзаж с пальмами, квадратные кнопки.",
+            "file": "themes/pink-crt.json",
+            "preview": "previews/pink-crt.png",
+            "tags": [
+                "dark",
+                "pixel",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Pink CRT"
+        },
+        {
+            "id": "pink-scrapbook",
+            "name": "Pink Scrapbook",
+            "author": "ann22cadis",
+            "description": "Розовый коллаж: бумажная бирка от руки, полароид со скотчем, малиновый диск, крупный узкий шрифт.",
+            "file": "themes/pink-scrapbook.json",
+            "preview": "previews/pink-scrapbook.png",
+            "tags": [
+                "light",
+                "cute",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Pink Scrapbook"
+        },
+        {
+            "id": "pumpkin-night",
+            "name": "Pumpkin Night",
+            "author": "ann22cadis",
+            "description": "Хэллоуин: ночное небо со звёздами, обложка-луна, летучие мыши, холм с надгробиями и кнопка Play в виде тыквы.",
+            "file": "themes/pumpkin-night.json",
+            "preview": "previews/pumpkin-night.png",
+            "tags": [
+                "dark",
+                "cute",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Pumpkin Night"
+        },
+        {
+            "id": "midnight-snow",
+            "name": "Midnight Snow",
+            "author": "ann22cadis",
+            "description": "Новый год: падающий снег, гирлянда с огоньками, обложка-ёлочная игрушка, золотые кнопки и сугроб с ёлками.",
+            "file": "themes/midnight-snow.json",
+            "preview": "previews/midnight-snow.png",
+            "tags": [
+                "dark",
+                "cute",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Midnight Snow"
+        },
+        {
+            "id": "halftone-bloom",
+            "name": "Halftone Bloom",
+            "author": "ann22cadis",
+            "description": "Чёрный постер: обложка точечным растром, колючие ветки, крупное рукописное название, кнопки-кружки с тонкой обводкой, статус-звёздочка. Малиновый с бледно-жёлтым.",
+            "file": "themes/halftone-bloom.json",
+            "preview": "previews/halftone-bloom.png",
+            "tags": [
+                "dark",
+                "y2k",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Halftone Bloom",
+            "variant": "Magenta",
+            "swatch": "#ff1f8e"
+        },
+        {
+            "id": "halftone-bloom-paper",
+            "name": "Halftone Bloom Paper",
+            "author": "ann22cadis",
+            "description": "Светлая бумага: малиновые шипы и растровая обложка, чёрное рукописное название, тонкие кнопки-кружки.",
+            "file": "themes/halftone-bloom-paper.json",
+            "preview": "previews/halftone-bloom-paper.png",
+            "tags": [
+                "light",
+                "y2k",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Halftone Bloom",
+            "variant": "Paper",
+            "swatch": "#f3efe8"
+        },
+        {
+            "id": "halftone-bloom-blue",
+            "name": "Halftone Bloom Blue",
+            "author": "ann22cadis",
+            "description": "Чёрный постер: обложка точечным растром, колючие ветки, крупное рукописное название, кнопки-кружки с тонкой обводкой, статус-звёздочка. Ярко-синий с ледяным голубым.",
+            "file": "themes/halftone-bloom-blue.json",
+            "preview": "previews/halftone-bloom-blue.png",
+            "tags": [
+                "dark",
+                "y2k",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Halftone Bloom",
+            "variant": "Blue",
+            "swatch": "#2f7bff"
+        },
+        {
+            "id": "halftone-bloom-red",
+            "name": "Halftone Bloom Red",
+            "author": "ann22cadis",
+            "description": "Чёрный постер: обложка точечным растром, колючие ветки, крупное рукописное название, кнопки-кружки с тонкой обводкой, статус-звёздочка. Алый с кремовым.",
+            "file": "themes/halftone-bloom-red.json",
+            "preview": "previews/halftone-bloom-red.png",
+            "tags": [
+                "dark",
+                "y2k",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Halftone Bloom",
+            "variant": "Red",
+            "swatch": "#ff2a2a"
+        },
+        {
+            "id": "halftone-bloom-violet",
+            "name": "Halftone Bloom Violet",
+            "author": "ann22cadis",
+            "description": "Чёрный постер: обложка точечным растром, колючие ветки, крупное рукописное название, кнопки-кружки с тонкой обводкой, статус-звёздочка. Фиолетовый с мятным.",
+            "file": "themes/halftone-bloom-violet.json",
+            "preview": "previews/halftone-bloom-violet.png",
+            "tags": [
+                "dark",
+                "y2k",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Halftone Bloom",
+            "variant": "Violet",
+            "swatch": "#9b5cff"
+        },
+        {
+            "id": "lets-go-gambling",
+            "name": "Let's Go Gambling",
+            "author": "ann22cadis",
+            "description": "Казино: обложка в виде покерной фишки, пиковая масть в заголовке, песочный фон в клетку, тёплый красно-оранжевый акцент.",
+            "file": "themes/lets-go-gambling.json",
+            "preview": "previews/lets-go-gambling.png",
+            "tags": [
+                "dark",
+                "retro",
+                "colorful"
+            ],
+            "version": 1,
+            "group": "Let's Go Gambling"
+        },
+        {
+            "id": "cassette-tape",
+            "name": "Cassette Tape",
+            "author": "ann22cadis",
+            "description": "Кассета: ребристый чёрный корпус, серая карточка сверху, кремовая наклейка с надписями, две крутящиеся бобины и зелёная полоса с кнопками. Очередь выглядит как треклист.",
+            "file": "themes/cassette-tape.json",
+            "preview": "previews/cassette-tape.png",
+            "tags": [
+                "retro",
+                "dark"
+            ],
+            "version": 1,
+            "group": "Cassette Tape"
+        },
+        {
+            "id": "fall-tape",
+            "name": "My Fall Life",
+            "author": "ann22cadis",
+            "description": "Прозрачный кейс тёплого коричневого цвета: тёмная осенняя обложка с названием serif, лента с двумя бобинами вместо полосы прогресса, тонкие кнопки. Очередь пронумерована как треклист на вкладыше.",
+            "file": "themes/fall-tape.json",
+            "preview": "previews/fall-tape.png",
+            "tags": [
+                "dark",
+                "retro"
+            ],
+            "version": 1,
+            "group": "My Fall Life"
+        },
+        {
+            "id": "terminal-green",
+            "name": "Green Terminal",
+            "author": "ann22cadis",
+            "description": "Зелёный терминал: пунктирная рамка, строки приглашения, кнопки в квадратных скобках, обложка точечным растром и ASCII-котик, который моргает, пока играет музыка. Очередь как лог.",
+            "file": "themes/terminal-green.json",
+            "preview": "previews/terminal-green.png",
+            "tags": [
+                "dark",
+                "retro",
+                "mono"
+            ],
+            "version": 1,
+            "group": "Green Terminal"
+        },
+        {
+            "id": "powershell-neofetch",
+            "name": "PowerShell Neofetch",
+            "author": "ann22cadis",
+            "description": "Окно терминала PowerShell: вкладка pwsh, рамка с заголовком «Hardware & Session», строки TRACK и ARTIST, прогресс и громкость блоками, строка приглашения. Зелёный.",
+            "file": "themes/powershell-neofetch.json",
+            "preview": "previews/powershell-neofetch.png",
+            "tags": [
+                "dark",
+                "mono",
+                "retro"
+            ],
+            "version": 1,
+            "group": "PowerShell Neofetch",
+            "variant": "Green",
+            "swatch": "#5af78e"
+        },
+        {
+            "id": "powershell-neofetch-cyan",
+            "name": "PowerShell Neofetch Cyan",
+            "author": "ann22cadis",
+            "description": "Окно терминала PowerShell: вкладка pwsh, рамка с заголовком «Hardware & Session», строки TRACK и ARTIST, прогресс и громкость блоками, строка приглашения. Голубой.",
+            "file": "themes/powershell-neofetch-cyan.json",
+            "preview": "previews/powershell-neofetch-cyan.png",
+            "tags": [
+                "dark",
+                "mono",
+                "retro"
+            ],
+            "version": 1,
+            "group": "PowerShell Neofetch",
+            "variant": "Cyan",
+            "swatch": "#57c7ff"
+        },
+        {
+            "id": "powershell-neofetch-amber",
+            "name": "PowerShell Neofetch Amber",
+            "author": "ann22cadis",
+            "description": "Окно терминала PowerShell: вкладка pwsh, рамка с заголовком «Hardware & Session», строки TRACK и ARTIST, прогресс и громкость блоками, строка приглашения. Янтарный.",
+            "file": "themes/powershell-neofetch-amber.json",
+            "preview": "previews/powershell-neofetch-amber.png",
+            "tags": [
+                "dark",
+                "mono",
+                "retro"
+            ],
+            "version": 1,
+            "group": "PowerShell Neofetch",
+            "variant": "Amber",
+            "swatch": "#ffb454"
+        },
+        {
+            "id": "powershell-neofetch-pink",
+            "name": "PowerShell Neofetch Pink",
+            "author": "ann22cadis",
+            "description": "Окно терминала PowerShell: вкладка pwsh, рамка с заголовком «Hardware & Session», строки TRACK и ARTIST, прогресс и громкость блоками, строка приглашения. Розовый.",
+            "file": "themes/powershell-neofetch-pink.json",
+            "preview": "previews/powershell-neofetch-pink.png",
+            "tags": [
+                "dark",
+                "mono",
+                "retro"
+            ],
+            "version": 1,
+            "group": "PowerShell Neofetch",
+            "variant": "Pink",
+            "swatch": "#ff6ac1"
+        },
+        {
+            "id": "powershell-neofetch-violet",
+            "name": "PowerShell Neofetch Violet",
+            "author": "ann22cadis",
+            "description": "Окно терминала PowerShell: вкладка pwsh, рамка с заголовком «Hardware & Session», строки TRACK и ARTIST, прогресс и громкость блоками, строка приглашения. Фиолетовый.",
+            "file": "themes/powershell-neofetch-violet.json",
+            "preview": "previews/powershell-neofetch-violet.png",
+            "tags": [
+                "dark",
+                "mono",
+                "retro"
+            ],
+            "version": 1,
+            "group": "PowerShell Neofetch",
+            "variant": "Violet",
+            "swatch": "#bd93f9"
+        },
+        {
+            "id": "stamp-haunted-moon",
+            "name": "Stamp: Haunted Moon",
+            "author": "ann22cadis",
+            "description": "Хэллоуинская почтовая марка: розовая перфорированная рамка, обложка трека как розовая луна за силуэтом замка, летучие мыши, штемпель, «31 OCT» и «HALLOWEEN». Очередь как лист маленьких марок.",
+            "file": "themes/stamp-haunted-moon.json",
+            "preview": "previews/stamp-haunted-moon.png",
+            "tags": [
+                "dark",
+                "cute",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Stamp: Haunted Moon"
+        },
+        {
+            "id": "stamp-trick-or-treat",
+            "name": "Stamp: Trick or Treat",
+            "author": "ann22cadis",
+            "description": "Хэллоуинская почтовая марка: голубая перфорированная рамка, обложка в розовой рамке, чёрный кот на кованой ограде, «TRICK OR TREAT» и «SPOOKY SEASON». Очередь как лист маленьких марок.",
+            "file": "themes/stamp-trick-or-treat.json",
+            "preview": "previews/stamp-trick-or-treat.png",
+            "tags": [
+                "dark",
+                "cute",
+                "retro"
+            ],
+            "version": 1,
+            "group": "Stamp: Trick or Treat"
+        },
+        {
+            "id": "sweet-universe-memo",
+            "name": "Sweet Universe: Memo",
+            "author": "ann22cadis",
+            "description": "Небесная канцелярия: кремовый лист с двойной лавандовой рамкой и ромбами в углах, обложка в медальоне из сакральной геометрии, шарики-планеты, искорки, название крупным курсивом. Очередь как разлинованный блокнот.",
+            "file": "themes/sweet-universe-memo.json",
+            "preview": "previews/sweet-universe-memo.png",
+            "tags": [
+                "light",
+                "cute",
+                "minimal"
+            ],
+            "version": 1,
+            "group": "Sweet Universe: Memo"
+        },
+        {
+            "id": "sweet-universe-night",
+            "name": "Sweet Universe: Night",
+            "author": "ann22cadis",
+            "description": "Небесная канцелярия, ночная карточка: звёздный сливовый верх и кремовый низ, обложка в светлом медальоне из сакральной геометрии, белое курсивное название, планеты и искорки. Очередь как разлинованный ночной листок.",
+            "file": "themes/sweet-universe-night.json",
+            "preview": "previews/sweet-universe-night.png",
+            "tags": [
+                "dark",
+                "cute",
+                "minimal"
+            ],
+            "version": 1,
+            "group": "Sweet Universe: Night"
+        }
+    ]
+}
